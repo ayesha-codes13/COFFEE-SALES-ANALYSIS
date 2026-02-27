@@ -1,0 +1,1134 @@
+transacton_id,date,Time,money,coffee_name,Payment_method,weekday
+1,01-03-2024,10:15:51,38.7,Latte,card,friday
+2,01-03-2024,12:19:23,38.7,Hot Chocolate,card,friday
+3,01-03-2024,12:20:18,38.7,Hot Chocolate,card,friday
+4,01-03-2024,13:46:33,28.9,Americano,card,friday
+5,01-03-2024,13:48:15,38.7,Latte,card,friday
+6,01-03-2024,15:39:48,33.8,Americano with Milk,card,friday
+7,01-03-2024,16:19:03,38.7,Hot Chocolate,card,friday
+8,01-03-2024,18:39:04,33.8,Americano with Milk,card,friday
+9,01-03-2024,19:22:02,38.7,Cocoa,card,friday
+10,01-03-2024,19:23:16,33.8,Americano with Milk,card,friday
+11,01-03-2024,19:29:17,33.8,Americano with Milk,card,friday
+12,02-03-2024,10:22:07,28.9,Americano,card,saturday
+13,02-03-2024,10:30:36,40,Latte,cash,saturday
+14,02-03-2024,10:41:41,33.8,Americano with Milk,card,saturday
+15,02-03-2024,11:59:45,33.8,Americano with Milk,card,saturday
+16,02-03-2024,14:38:36,28.9,Americano,card,saturday
+17,02-03-2024,16:37:24,33.8,Americano with Milk,card,saturday
+18,02-03-2024,17:34:55,28.9,Americano,card,saturday
+19,03-03-2024,10:10:44,40,Latte,cash,sunday
+20,03-03-2024,10:27:19,38.7,Latte,card,sunday
+21,03-03-2024,11:33:56,28.9,Cortado,card,sunday
+22,03-03-2024,12:26:56,28.9,Americano,card,sunday
+23,03-03-2024,13:09:36,38.7,Hot Chocolate,card,sunday
+24,03-03-2024,17:06:40,38.7,Cocoa,card,sunday
+25,03-03-2024,17:08:46,28.9,Cortado,card,sunday
+26,03-03-2024,18:03:23,33.8,Americano with Milk,card,sunday
+27,03-03-2024,18:04:28,33.8,Americano with Milk,card,sunday
+28,03-03-2024,18:08:05,38.7,Hot Chocolate,card,sunday
+29,04-03-2024,10:03:52,38.7,Latte,card,monday
+30,04-03-2024,10:54:51,38.7,Latte,card,monday
+31,04-03-2024,11:05:16,33.8,Americano with Milk,card,monday
+32,04-03-2024,14:04:38,24,Espresso,card,monday
+33,05-03-2024,09:59:53,38.7,Latte,card,tuesday
+34,05-03-2024,14:34:56,38.7,Latte,card,tuesday
+35,05-03-2024,17:34:06,38.7,Latte,card,tuesday
+36,05-03-2024,17:35:25,38.7,Hot Chocolate,card,tuesday
+37,05-03-2024,17:36:29,38.7,Cocoa,card,tuesday
+38,05-03-2024,17:37:14,38.7,Hot Chocolate,card,tuesday
+39,05-03-2024,17:38:09,38.7,Hot Chocolate,card,tuesday
+40,05-03-2024,17:56:16,28.9,Cortado,card,tuesday
+41,05-03-2024,18:01:31,38.7,Hot Chocolate,card,tuesday
+42,06-03-2024,12:30:27,35,Americano with Milk,cash,wednesday
+43,06-03-2024,13:24:08,28.9,Americano,card,wednesday
+44,06-03-2024,13:25:14,28.9,Cortado,card,wednesday
+45,06-03-2024,14:52:02,38.7,Cappuccino,card,wednesday
+46,06-03-2024,14:53:18,38.7,Cappuccino,card,wednesday
+47,07-03-2024,10:08:59,40,Latte,cash,thursday
+48,07-03-2024,10:18:41,38.7,Hot Chocolate,card,thursday
+49,07-03-2024,11:03:59,38.7,Latte,card,thursday
+50,07-03-2024,11:25:44,40,Latte,cash,thursday
+51,07-03-2024,15:40:23,28.9,Americano,card,thursday
+52,07-03-2024,15:41:29,33.8,Americano with Milk,card,thursday
+53,08-03-2024,10:34:41,28.9,Cortado,card,friday
+54,08-03-2024,12:22:29,38.7,Cappuccino,card,friday
+55,08-03-2024,13:53:02,28.9,Americano,card,friday
+56,08-03-2024,14:44:13,28.9,Americano,card,friday
+57,08-03-2024,14:45:11,28.9,Americano,card,friday
+58,08-03-2024,14:46:11,33.8,Americano with Milk,card,friday
+59,08-03-2024,18:57:51,38.7,Latte,card,friday
+60,08-03-2024,18:59:25,38.7,Latte,card,friday
+61,09-03-2024,11:49:37,40,Hot Chocolate,cash,saturday
+62,09-03-2024,12:05:16,24,Espresso,card,saturday
+63,09-03-2024,12:07:38,28.9,Americano,card,saturday
+64,09-03-2024,12:09:48,38.7,Cappuccino,card,saturday
+65,09-03-2024,12:13:04,28.9,Americano,card,saturday
+66,09-03-2024,12:14:26,28.9,Americano,card,saturday
+67,09-03-2024,13:09:22,38.7,Latte,card,saturday
+68,09-03-2024,13:41:06,33.8,Americano with Milk,card,saturday
+69,09-03-2024,13:53:10,28.9,Cortado,card,saturday
+70,09-03-2024,13:54:37,38.7,Cappuccino,card,saturday
+71,09-03-2024,14:08:02,33.8,Americano with Milk,card,saturday
+72,09-03-2024,14:26:53,38.7,Hot Chocolate,card,saturday
+73,09-03-2024,19:17:58,38.7,Cappuccino,card,saturday
+74,09-03-2024,19:19:10,38.7,Hot Chocolate,card,saturday
+75,10-03-2024,07:44:19,30,Americano,cash,sunday
+76,10-03-2024,07:45:29,35,Americano with Milk,cash,sunday
+77,10-03-2024,10:06:03,40,Latte,cash,sunday
+78,10-03-2024,11:19:21,24,Espresso,card,sunday
+79,10-03-2024,17:51:03,35,Americano with Milk,cash,sunday
+80,10-03-2024,19:34:00,38.7,Latte,card,sunday
+81,10-03-2024,19:35:55,28.9,Cortado,card,sunday
+82,11-03-2024,10:18:47,40,Latte,cash,monday
+83,11-03-2024,11:24:15,40,Cappuccino,cash,monday
+84,11-03-2024,11:24:52,30,Cortado,cash,monday
+85,11-03-2024,11:26:44,30,Americano,cash,monday
+86,11-03-2024,11:32:59,38.7,Cappuccino,card,monday
+87,11-03-2024,16:24:26,28.9,Americano,card,monday
+88,11-03-2024,16:25:46,38.7,Latte,card,monday
+89,11-03-2024,16:50:50,28.9,Cortado,card,monday
+90,12-03-2024,10:15:00,40,Latte,cash,tuesday
+91,12-03-2024,10:15:35,28.9,Americano,card,tuesday
+92,12-03-2024,10:16:25,28.9,Cortado,card,tuesday
+93,12-03-2024,11:20:46,38.7,Hot Chocolate,card,tuesday
+94,12-03-2024,12:46:23,33.8,Americano with Milk,card,tuesday
+95,12-03-2024,12:47:26,28.9,Americano,card,tuesday
+96,12-03-2024,16:15:43,28.9,Americano,card,tuesday
+97,13-03-2024,11:06:43,38.7,Hot Chocolate,card,wednesday
+98,13-03-2024,11:48:17,28.9,Americano,card,wednesday
+99,13-03-2024,12:18:06,28.9,Americano,card,wednesday
+100,13-03-2024,12:19:05,28.9,Americano,card,wednesday
+101,13-03-2024,12:34:30,25,Espresso,cash,wednesday
+102,13-03-2024,14:26:41,33.8,Americano with Milk,card,wednesday
+103,13-03-2024,15:40:22,24,Espresso,card,wednesday
+104,13-03-2024,15:41:20,24,Espresso,card,wednesday
+105,13-03-2024,16:47:09,24,Espresso,card,wednesday
+106,14-03-2024,10:02:12,40,Latte,cash,thursday
+107,14-03-2024,10:28:33,38.7,Latte,card,thursday
+108,14-03-2024,10:29:34,38.7,Hot Chocolate,card,thursday
+109,14-03-2024,13:27:30,28.9,Cortado,card,thursday
+110,14-03-2024,13:28:25,28.9,Americano,card,thursday
+111,14-03-2024,13:52:00,33.8,Americano with Milk,card,thursday
+112,14-03-2024,13:52:56,24,Espresso,card,thursday
+113,14-03-2024,15:20:38,38.7,Latte,card,thursday
+114,14-03-2024,16:04:10,33.8,Americano with Milk,card,thursday
+115,14-03-2024,16:54:38,24,Espresso,card,thursday
+116,14-03-2024,18:58:56,38.7,Hot Chocolate,card,thursday
+117,14-03-2024,19:00:09,28.9,Cortado,card,thursday
+118,15-03-2024,10:02:17,40,Latte,cash,friday
+119,15-03-2024,10:53:02,38.7,Hot Chocolate,card,friday
+120,15-03-2024,18:19:28,28.9,Americano,card,friday
+121,16-03-2024,12:06:55,33.8,Americano with Milk,card,saturday
+122,16-03-2024,12:07:54,28.9,Americano,card,saturday
+123,16-03-2024,15:58:18,28.9,Cortado,card,saturday
+124,16-03-2024,16:03:22,28.9,Cortado,card,saturday
+125,16-03-2024,16:04:11,28.9,Cortado,card,saturday
+126,16-03-2024,17:58:07,33.8,Americano with Milk,card,saturday
+127,17-03-2024,10:10:21,40,Latte,cash,sunday
+128,17-03-2024,12:55:26,28.9,Cortado,card,sunday
+129,18-03-2024,11:18:00,28.9,Cortado,card,monday
+130,18-03-2024,15:31:40,28.9,Americano,card,monday
+131,18-03-2024,15:32:38,28.9,Americano,card,monday
+132,18-03-2024,15:33:37,28.9,Americano,card,monday
+133,19-03-2024,10:20:26,30,Cortado,cash,tuesday
+134,19-03-2024,14:02:22,38.7,Latte,card,tuesday
+135,19-03-2024,14:03:20,38.7,Latte,card,tuesday
+136,19-03-2024,15:04:36,38.7,Hot Chocolate,card,tuesday
+137,19-03-2024,16:53:49,33.8,Americano with Milk,card,tuesday
+138,19-03-2024,19:26:33,40,Hot Chocolate,cash,tuesday
+139,20-03-2024,11:41:16,28.9,Cortado,card,wednesday
+140,20-03-2024,12:21:08,40,Latte,cash,wednesday
+141,20-03-2024,12:30:49,28.9,Cortado,card,wednesday
+142,20-03-2024,13:16:47,38.7,Cappuccino,card,wednesday
+143,20-03-2024,16:42:38,38.7,Cocoa,card,wednesday
+144,20-03-2024,17:50:29,38.7,Latte,card,wednesday
+145,21-03-2024,10:18:57,40,Cappuccino,cash,thursday
+146,21-03-2024,12:25:09,28.9,Cortado,card,thursday
+147,21-03-2024,12:26:17,38.7,Cappuccino,card,thursday
+148,21-03-2024,17:21:01,30,Americano,cash,thursday
+149,21-03-2024,17:22:01,28.9,Cortado,card,thursday
+150,21-03-2024,19:20:37,38.7,Latte,card,thursday
+151,22-03-2024,10:35:54,33.8,Americano with Milk,card,friday
+152,22-03-2024,13:29:20,33.8,Americano with Milk,card,friday
+153,22-03-2024,16:15:14,40,Cappuccino,cash,friday
+154,22-03-2024,17:17:04,28.9,Americano,card,friday
+155,22-03-2024,17:17:59,24,Espresso,card,friday
+156,22-03-2024,17:20:49,28.9,Americano,card,friday
+157,23-03-2024,10:44:00,38.7,Latte,card,saturday
+158,23-03-2024,10:45:07,33.8,Americano with Milk,card,saturday
+159,23-03-2024,13:10:08,38.7,Cappuccino,card,saturday
+160,23-03-2024,13:11:12,38.7,Cocoa,card,saturday
+161,23-03-2024,14:44:41,33.8,Americano with Milk,card,saturday
+162,23-03-2024,15:47:19,38.7,Latte,card,saturday
+163,23-03-2024,15:49:34,33.8,Americano with Milk,card,saturday
+164,23-03-2024,16:00:58,28.9,Cortado,card,saturday
+165,24-03-2024,10:03:56,40,Latte,cash,sunday
+166,24-03-2024,18:45:08,38.7,Latte,card,sunday
+167,25-03-2024,10:31:47,38.7,Latte,card,monday
+168,25-03-2024,11:16:26,35,Americano with Milk,cash,monday
+169,25-03-2024,14:27:09,38.7,Latte,card,monday
+170,25-03-2024,14:29:25,38.7,Latte,card,monday
+171,25-03-2024,18:37:31,33.8,Americano with Milk,card,monday
+172,25-03-2024,19:34:25,38.7,Cappuccino,card,monday
+173,26-03-2024,10:35:50,38.7,Cocoa,card,tuesday
+174,26-03-2024,10:36:36,38.7,Latte,card,tuesday
+175,26-03-2024,10:42:30,38.7,Latte,card,tuesday
+176,26-03-2024,11:11:47,28.9,Cortado,card,tuesday
+177,26-03-2024,13:35:53,28.9,Americano,card,tuesday
+178,26-03-2024,13:36:50,28.9,Cortado,card,tuesday
+179,26-03-2024,13:38:00,28.9,Cortado,card,tuesday
+180,26-03-2024,13:57:54,28.9,Americano,card,tuesday
+181,26-03-2024,15:48:02,38.7,Latte,card,tuesday
+182,26-03-2024,18:33:39,38.7,Latte,card,tuesday
+183,26-03-2024,18:34:55,38.7,Hot Chocolate,card,tuesday
+184,27-03-2024,11:04:51,28.9,Cortado,card,wednesday
+185,27-03-2024,11:05:58,33.8,Americano with Milk,card,wednesday
+186,27-03-2024,12:57:00,33.8,Americano with Milk,card,wednesday
+187,27-03-2024,13:35:20,38.7,Hot Chocolate,card,wednesday
+188,27-03-2024,14:22:32,38.7,Cappuccino,card,wednesday
+189,27-03-2024,14:23:35,28.9,Americano,card,wednesday
+190,27-03-2024,18:30:12,28.9,Cortado,card,wednesday
+191,27-03-2024,19:31:12,40,Latte,cash,wednesday
+192,28-03-2024,14:24:47,28.9,Cortado,card,thursday
+193,28-03-2024,17:24:46,28.9,Cortado,card,thursday
+194,28-03-2024,17:27:05,28.9,Americano,card,thursday
+195,28-03-2024,17:32:45,38.7,Latte,card,thursday
+196,29-03-2024,10:56:19,38.7,Latte,card,friday
+197,29-03-2024,12:34:17,38.7,Cappuccino,card,friday
+198,29-03-2024,12:41:32,38.7,Cappuccino,card,friday
+199,29-03-2024,13:22:45,40,Cappuccino,cash,friday
+200,30-03-2024,11:59:20,38.7,Latte,card,saturday
+201,30-03-2024,13:49:26,40,Cappuccino,cash,saturday
+202,30-03-2024,16:12:32,38.7,Latte,card,saturday
+203,30-03-2024,16:36:41,38.7,Latte,card,saturday
+204,30-03-2024,16:37:58,33.8,Americano with Milk,card,saturday
+205,31-03-2024,10:40:05,38.7,Cappuccino,card,sunday
+206,31-03-2024,19:36:45,30,Americano,cash,sunday
+207,01-04-2024,10:28:48,28.9,Americano,card,monday
+208,01-04-2024,10:29:42,33.8,Americano with Milk,card,monday
+209,01-04-2024,10:30:44,33.8,Americano with Milk,card,monday
+210,01-04-2024,11:15:44,33.8,Americano with Milk,card,monday
+211,01-04-2024,17:01:43,40,Cappuccino,cash,monday
+212,01-04-2024,18:18:42,33.8,Americano with Milk,card,monday
+213,01-04-2024,18:45:27,38.7,Hot Chocolate,card,monday
+214,02-04-2024,10:01:14,38.7,Latte,card,tuesday
+215,02-04-2024,16:18:34,28.9,Americano,card,tuesday
+216,02-04-2024,16:19:28,28.9,Cortado,card,tuesday
+217,02-04-2024,19:59:32,40,Cappuccino,cash,tuesday
+218,03-04-2024,10:19:14,28.9,Cortado,card,wednesday
+219,03-04-2024,10:20:08,28.9,Americano,card,wednesday
+220,03-04-2024,13:12:05,38.7,Cappuccino,card,wednesday
+221,03-04-2024,15:36:12,30,Cortado,cash,wednesday
+222,04-04-2024,10:44:56,38.7,Latte,card,thursday
+223,04-04-2024,11:26:38,38.7,Latte,card,thursday
+224,04-04-2024,11:27:48,38.7,Cappuccino,card,thursday
+225,04-04-2024,12:23:02,28.9,Cortado,card,thursday
+226,04-04-2024,19:42:08,40,Latte,cash,thursday
+227,05-04-2024,10:40:43,28.9,Americano,card,friday
+228,05-04-2024,10:42:06,28.9,Americano,card,friday
+229,05-04-2024,11:06:15,28.9,Cortado,card,friday
+230,05-04-2024,12:14:28,33.8,Americano with Milk,card,friday
+231,05-04-2024,14:23:40,38.7,Latte,card,friday
+232,05-04-2024,14:24:50,28.9,Cortado,card,friday
+233,05-04-2024,15:30:50,40,Latte,cash,friday
+234,05-04-2024,15:54:16,40,Cappuccino,cash,friday
+235,05-04-2024,15:55:31,30,Americano,cash,friday
+236,05-04-2024,16:17:44,40,Cocoa,cash,friday
+237,05-04-2024,16:18:24,24,Espresso,card,friday
+238,06-04-2024,12:32:31,33.8,Americano with Milk,card,saturday
+239,06-04-2024,14:13:19,38.7,Cappuccino,card,saturday
+240,06-04-2024,14:14:27,28.9,Americano,card,saturday
+241,06-04-2024,14:49:50,38.7,Latte,card,saturday
+242,07-04-2024,10:12:53,38.7,Latte,card,sunday
+243,07-04-2024,12:44:32,38.7,Cappuccino,card,sunday
+244,07-04-2024,12:46:05,38.7,Cappuccino,card,sunday
+245,07-04-2024,14:16:25,28.9,Cortado,card,sunday
+246,07-04-2024,14:17:31,24,Espresso,card,sunday
+247,07-04-2024,18:01:17,38.7,Hot Chocolate,card,sunday
+248,07-04-2024,18:02:04,33.8,Americano with Milk,card,sunday
+249,08-04-2024,10:58:21,33.8,Americano with Milk,card,monday
+250,08-04-2024,10:59:28,38.7,Cappuccino,card,monday
+251,08-04-2024,11:01:20,28.9,Americano,card,monday
+252,08-04-2024,11:04:47,38.7,Cappuccino,card,monday
+253,08-04-2024,12:54:26,25,Espresso,cash,monday
+254,08-04-2024,15:43:37,35,Americano with Milk,cash,monday
+255,08-04-2024,16:41:38,38.7,Latte,card,monday
+256,08-04-2024,18:18:10,28.9,Americano,card,monday
+257,08-04-2024,19:22:27,33.8,Americano with Milk,card,monday
+258,08-04-2024,19:23:59,38.7,Cappuccino,card,monday
+259,09-04-2024,10:22:27,40,Cappuccino,cash,tuesday
+260,09-04-2024,10:24:10,30,Americano,cash,tuesday
+261,09-04-2024,11:42:28,38.7,Latte,card,tuesday
+262,09-04-2024,15:11:49,38.7,Hot Chocolate,card,tuesday
+263,09-04-2024,17:25:24,38.7,Hot Chocolate,card,tuesday
+264,10-04-2024,10:21:26,25,Espresso,cash,wednesday
+265,10-04-2024,17:55:07,40,Hot Chocolate,cash,wednesday
+266,10-04-2024,17:55:31,24,Espresso,card,wednesday
+267,10-04-2024,18:24:59,38.7,Cappuccino,card,wednesday
+268,10-04-2024,20:04:05,38.7,Latte,card,wednesday
+269,11-04-2024,10:41:23,28.9,Americano,card,thursday
+270,11-04-2024,10:42:59,28.9,Americano,card,thursday
+271,11-04-2024,16:35:23,38.7,Latte,card,thursday
+272,11-04-2024,19:16:57,38.7,Cappuccino,card,thursday
+273,11-04-2024,19:18:37,33.8,Americano with Milk,card,thursday
+274,12-04-2024,19:03:43,38.7,Hot Chocolate,card,friday
+275,12-04-2024,19:38:23,28.9,Cortado,card,friday
+276,13-04-2024,12:29:20,38.7,Latte,card,saturday
+277,13-04-2024,12:43:02,28.9,Americano,card,saturday
+278,13-04-2024,15:06:52,40,Hot Chocolate,cash,saturday
+279,13-04-2024,15:07:56,40,Hot Chocolate,cash,saturday
+280,13-04-2024,16:18:04,38.7,Cappuccino,card,saturday
+281,13-04-2024,16:19:40,38.7,Latte,card,saturday
+282,13-04-2024,17:51:26,38.7,Cappuccino,card,saturday
+283,13-04-2024,17:53:19,38.7,Cappuccino,card,saturday
+284,14-04-2024,10:55:27,40,Latte,cash,sunday
+285,14-04-2024,12:24:39,38.7,Cappuccino,card,sunday
+286,14-04-2024,12:27:09,30,Cortado,cash,sunday
+287,14-04-2024,12:29:07,30,Cortado,cash,sunday
+288,14-04-2024,12:31:36,35,Americano with Milk,cash,sunday
+289,14-04-2024,13:21:50,28.9,Cortado,card,sunday
+290,14-04-2024,14:23:32,28.9,Americano,card,sunday
+291,14-04-2024,14:24:27,28.9,Americano,card,sunday
+292,14-04-2024,14:25:18,28.9,Americano,card,sunday
+293,14-04-2024,15:46:28,38.7,Cappuccino,card,sunday
+294,14-04-2024,16:59:55,28.9,Cortado,card,sunday
+295,14-04-2024,17:00:45,38.7,Latte,card,sunday
+296,14-04-2024,18:38:20,38.7,Cappuccino,card,sunday
+297,15-04-2024,11:45:25,28.9,Americano,card,monday
+298,15-04-2024,17:01:46,28.9,Americano,card,monday
+299,15-04-2024,17:02:50,33.8,Americano with Milk,card,monday
+300,15-04-2024,19:33:03,33.8,Americano with Milk,card,monday
+301,15-04-2024,19:41:58,25,Espresso,cash,monday
+302,16-04-2024,10:43:50,35,Americano with Milk,cash,tuesday
+303,16-04-2024,10:46:26,33.8,Americano with Milk,card,tuesday
+304,16-04-2024,12:40:48,38.7,Cocoa,card,tuesday
+305,16-04-2024,12:52:08,28.9,Cortado,card,tuesday
+306,16-04-2024,15:03:17,28.9,Americano,card,tuesday
+307,16-04-2024,17:42:04,33.8,Americano with Milk,card,tuesday
+308,16-04-2024,17:43:23,38.7,Cappuccino,card,tuesday
+309,16-04-2024,18:09:05,38.7,Cocoa,card,tuesday
+310,17-04-2024,13:33:00,28.9,Americano,card,wednesday
+311,17-04-2024,13:44:00,24,Espresso,card,wednesday
+312,17-04-2024,16:13:24,40,Cappuccino,cash,wednesday
+313,17-04-2024,17:01:35,38.7,Cappuccino,card,wednesday
+314,17-04-2024,17:02:41,38.7,Cappuccino,card,wednesday
+315,17-04-2024,18:14:03,28.9,Cortado,card,wednesday
+316,18-04-2024,11:19:02,28.9,Americano,card,thursday
+317,18-04-2024,11:20:06,28.9,Americano,card,thursday
+318,18-04-2024,13:49:13,33.8,Americano with Milk,card,thursday
+319,18-04-2024,13:50:17,28.9,Cortado,card,thursday
+320,18-04-2024,14:34:20,38.7,Cappuccino,card,thursday
+321,18-04-2024,14:35:49,38.7,Latte,card,thursday
+322,18-04-2024,17:44:16,38.7,Latte,card,thursday
+323,18-04-2024,18:21:06,38.7,Cappuccino,card,thursday
+324,18-04-2024,19:39:51,38.7,Hot Chocolate,card,thursday
+325,18-04-2024,19:40:49,38.7,Hot Chocolate,card,thursday
+326,19-04-2024,10:10:36,38.7,Latte,card,friday
+327,19-04-2024,13:11:48,33.8,Americano with Milk,card,friday
+328,19-04-2024,13:13:21,38.7,Cappuccino,card,friday
+329,19-04-2024,13:58:54,38.7,Hot Chocolate,card,friday
+330,19-04-2024,13:59:50,38.7,Cappuccino,card,friday
+331,19-04-2024,18:23:19,38.7,Cocoa,card,friday
+332,19-04-2024,18:25:33,33.8,Americano with Milk,card,friday
+333,20-04-2024,11:24:43,35,Americano with Milk,cash,saturday
+334,20-04-2024,12:08:36,33.8,Americano with Milk,card,saturday
+335,20-04-2024,12:09:43,33.8,Americano with Milk,card,saturday
+336,20-04-2024,13:08:37,28.9,Americano,card,saturday
+337,20-04-2024,13:09:48,33.8,Americano with Milk,card,saturday
+338,20-04-2024,13:10:55,38.7,Hot Chocolate,card,saturday
+339,20-04-2024,14:44:18,38.7,Cappuccino,card,saturday
+340,20-04-2024,15:11:00,33.8,Americano with Milk,card,saturday
+341,20-04-2024,15:22:41,32.82,Americano with Milk,card,saturday
+342,20-04-2024,15:49:25,32.82,Americano with Milk,card,saturday
+343,20-04-2024,17:07:58,39,Cocoa,cash,saturday
+344,20-04-2024,18:27:41,37.72,Cappuccino,card,saturday
+345,20-04-2024,18:28:47,37.72,Cappuccino,card,saturday
+346,20-04-2024,19:30:55,37.72,Latte,card,saturday
+347,21-04-2024,11:16:46,37.72,Latte,card,sunday
+348,21-04-2024,14:15:38,27.92,Americano,card,sunday
+349,21-04-2024,17:09:03,39,Cappuccino,cash,sunday
+350,22-04-2024,11:09:16,27.92,Americano,card,monday
+351,22-04-2024,11:29:27,32.82,Americano with Milk,card,monday
+352,22-04-2024,18:40:33,39,Latte,cash,monday
+353,22-04-2024,19:39:05,37.72,Latte,card,monday
+354,22-04-2024,20:02:29,39,Cappuccino,cash,monday
+355,23-04-2024,14:22:36,37.72,Cappuccino,card,tuesday
+356,23-04-2024,14:23:53,32.82,Americano with Milk,card,tuesday
+357,23-04-2024,14:24:58,37.72,Cappuccino,card,tuesday
+358,23-04-2024,19:42:28,32.82,Americano with Milk,card,tuesday
+359,23-04-2024,19:43:26,32.82,Americano with Milk,card,tuesday
+360,24-04-2024,10:19:38,37.72,Latte,card,wednesday
+361,24-04-2024,10:21:27,32.82,Americano with Milk,card,wednesday
+362,24-04-2024,11:23:46,32.82,Americano with Milk,card,wednesday
+363,24-04-2024,11:33:26,32.82,Americano with Milk,card,wednesday
+364,24-04-2024,12:39:09,32.82,Americano with Milk,card,wednesday
+365,24-04-2024,16:39:07,32.82,Americano with Milk,card,wednesday
+366,24-04-2024,19:39:50,32.82,Americano with Milk,card,wednesday
+367,24-04-2024,19:40:54,37.72,Cappuccino,card,wednesday
+368,25-04-2024,10:46:08,27.92,Americano,card,thursday
+369,25-04-2024,15:18:27,37.72,Latte,card,thursday
+370,25-04-2024,17:09:44,27.92,Americano,card,thursday
+371,25-04-2024,17:10:49,27.92,Americano,card,thursday
+372,26-04-2024,10:12:51,37.72,Latte,card,friday
+373,26-04-2024,12:01:31,37.72,Latte,card,friday
+374,26-04-2024,13:31:28,37.72,Cappuccino,card,friday
+375,26-04-2024,15:32:35,27.92,Americano,card,friday
+376,26-04-2024,15:33:33,27.92,Americano,card,friday
+377,26-04-2024,16:23:27,27.92,Cortado,card,friday
+378,26-04-2024,16:24:34,27.92,Americano,card,friday
+379,26-04-2024,19:32:07,37.72,Hot Chocolate,card,friday
+380,26-04-2024,19:33:30,37.72,Cocoa,card,friday
+381,27-04-2024,15:27:01,37.72,Cappuccino,card,saturday
+382,28-04-2024,10:32:52,37.72,Latte,card,sunday
+383,28-04-2024,12:30:10,37.72,Cappuccino,card,sunday
+384,28-04-2024,18:27:08,27.92,Americano,card,sunday
+385,28-04-2024,18:28:11,27.92,Americano,card,sunday
+386,28-04-2024,18:29:02,37.72,Latte,card,sunday
+387,29-04-2024,11:26:32,27.92,Cortado,card,monday
+388,29-04-2024,13:27:57,27.92,Americano,card,monday
+389,29-04-2024,13:28:54,27.92,Cortado,card,monday
+390,29-04-2024,13:53:36,27.92,Cortado,card,monday
+391,29-04-2024,13:54:24,32.82,Americano with Milk,card,monday
+392,29-04-2024,18:37:48,37.72,Cappuccino,card,monday
+393,29-04-2024,19:12:33,37.72,Cappuccino,card,monday
+394,29-04-2024,19:13:38,37.72,Cappuccino,card,monday
+395,30-04-2024,10:16:41,37.72,Latte,card,tuesday
+396,30-04-2024,10:34:52,32.82,Americano with Milk,card,tuesday
+397,30-04-2024,10:35:48,32.82,Americano with Milk,card,tuesday
+398,30-04-2024,13:41:52,27.92,Americano,card,tuesday
+399,30-04-2024,13:43:00,32.82,Americano with Milk,card,tuesday
+400,30-04-2024,19:19:18,37.72,Cappuccino,card,tuesday
+401,30-04-2024,19:30:04,32.82,Americano with Milk,card,tuesday
+402,30-04-2024,19:31:21,37.72,Latte,card,tuesday
+403,02-05-2024,10:33:56,27.92,Americano,card,thursday
+404,02-05-2024,11:29:57,39,Latte,cash,thursday
+405,02-05-2024,13:49:40,32.82,Americano with Milk,card,thursday
+406,02-05-2024,18:36:22,37.72,Cappuccino,card,thursday
+407,02-05-2024,18:41:11,32.82,Americano with Milk,card,thursday
+408,02-05-2024,19:18:33,37.72,Latte,card,thursday
+409,02-05-2024,19:19:56,37.72,Cappuccino,card,thursday
+410,03-05-2024,10:11:53,39,Latte,cash,friday
+411,03-05-2024,14:30:01,37.72,Latte,card,friday
+412,03-05-2024,17:03:25,37.72,Latte,card,friday
+413,06-05-2024,10:05:18,27.92,Americano,card,monday
+414,06-05-2024,10:06:52,37.72,Cappuccino,card,monday
+415,06-05-2024,10:08:06,32.82,Americano with Milk,card,monday
+416,06-05-2024,10:09:08,27.92,Americano,card,monday
+417,06-05-2024,10:39:13,27.92,Cortado,card,monday
+418,06-05-2024,11:34:21,29,Americano,cash,monday
+419,06-05-2024,13:18:11,27.92,Cortado,card,monday
+420,06-05-2024,13:19:01,27.92,Americano,card,monday
+421,06-05-2024,19:18:13,37.72,Cappuccino,card,monday
+422,06-05-2024,19:19:50,37.72,Cappuccino,card,monday
+423,07-05-2024,10:44:56,37.72,Cocoa,card,tuesday
+424,07-05-2024,11:21:58,27.92,Cortado,card,tuesday
+425,07-05-2024,13:23:35,27.92,Cortado,card,tuesday
+426,07-05-2024,16:42:08,37.72,Cocoa,card,tuesday
+427,07-05-2024,16:55:39,27.92,Americano,card,tuesday
+428,07-05-2024,17:37:46,37.72,Cappuccino,card,tuesday
+429,07-05-2024,17:38:48,37.72,Latte,card,tuesday
+430,07-05-2024,18:35:37,34,Americano with Milk,cash,tuesday
+431,07-05-2024,19:12:13,37.72,Cappuccino,card,tuesday
+432,07-05-2024,19:13:12,37.72,Cappuccino,card,tuesday
+433,08-05-2024,10:07:29,37.72,Latte,card,wednesday
+434,09-05-2024,12:54:22,37.72,Cappuccino,card,thursday
+435,09-05-2024,13:03:59,27.92,Americano,card,thursday
+436,09-05-2024,13:04:58,37.72,Latte,card,thursday
+437,09-05-2024,13:06:11,37.72,Latte,card,thursday
+438,09-05-2024,13:07:16,37.72,Latte,card,thursday
+439,09-05-2024,16:55:15,27.92,Americano,card,thursday
+440,09-05-2024,16:56:15,27.92,Americano,card,thursday
+441,09-05-2024,18:01:30,27.92,Americano,card,thursday
+442,09-05-2024,18:13:56,32.82,Americano with Milk,card,thursday
+443,10-05-2024,10:09:22,39,Latte,cash,friday
+444,10-05-2024,15:46:22,37.72,Latte,card,friday
+445,10-05-2024,15:47:33,37.72,Latte,card,friday
+446,10-05-2024,16:20:15,34,Americano with Milk,cash,friday
+447,11-05-2024,11:39:53,37.72,Latte,card,saturday
+448,11-05-2024,17:02:44,39,Latte,cash,saturday
+449,11-05-2024,17:20:30,32.82,Americano with Milk,card,saturday
+450,11-05-2024,17:21:56,37.72,Cocoa,card,saturday
+451,11-05-2024,17:23:57,37.72,Cappuccino,card,saturday
+452,11-05-2024,17:28:54,32.82,Americano with Milk,card,saturday
+453,11-05-2024,18:35:40,37.72,Cappuccino,card,saturday
+454,11-05-2024,19:38:16,37.72,Latte,card,saturday
+455,12-05-2024,10:20:43,37.72,Latte,card,sunday
+456,12-05-2024,13:24:03,37.72,Latte,card,sunday
+457,12-05-2024,13:27:39,27.92,Americano,card,sunday
+458,12-05-2024,15:16:20,37.72,Latte,card,sunday
+459,12-05-2024,15:38:02,32.82,Americano with Milk,card,sunday
+460,12-05-2024,15:52:15,32.82,Americano with Milk,card,sunday
+461,12-05-2024,16:04:21,32.82,Americano with Milk,card,sunday
+462,12-05-2024,19:41:31,32.82,Americano with Milk,card,sunday
+463,13-05-2024,11:03:53,32.82,Americano with Milk,card,monday
+464,13-05-2024,15:31:11,29,Americano,cash,monday
+465,13-05-2024,15:31:51,29,Americano,cash,monday
+466,14-05-2024,08:38:15,27.92,Americano,card,tuesday
+467,14-05-2024,08:39:25,27.92,Americano,card,tuesday
+468,14-05-2024,08:40:17,27.92,Americano,card,tuesday
+469,14-05-2024,10:19:23,37.72,Cappuccino,card,tuesday
+470,14-05-2024,11:32:29,37.72,Latte,card,tuesday
+471,14-05-2024,11:34:13,37.72,Cappuccino,card,tuesday
+472,14-05-2024,14:04:55,37.72,Cappuccino,card,tuesday
+473,14-05-2024,14:06:00,32.82,Americano with Milk,card,tuesday
+474,14-05-2024,15:01:55,27.92,Americano,card,tuesday
+475,14-05-2024,16:57:57,32.82,Americano with Milk,card,tuesday
+476,14-05-2024,16:59:10,37.72,Cappuccino,card,tuesday
+477,14-05-2024,22:51:25,37.72,Hot Chocolate,card,tuesday
+478,15-05-2024,08:40:06,37.72,Latte,card,wednesday
+479,15-05-2024,11:14:19,23.02,Espresso,card,wednesday
+480,15-05-2024,11:19:10,27.92,Americano,card,wednesday
+481,15-05-2024,13:34:35,27.92,Americano,card,wednesday
+482,15-05-2024,13:35:29,27.92,Americano,card,wednesday
+483,15-05-2024,13:36:27,27.92,Americano,card,wednesday
+484,15-05-2024,13:55:29,32.82,Americano with Milk,card,wednesday
+485,15-05-2024,14:38:11,29,Americano,cash,wednesday
+486,15-05-2024,14:38:52,27.92,Cortado,card,wednesday
+487,15-05-2024,14:39:44,27.92,Cortado,card,wednesday
+488,15-05-2024,17:28:59,23.02,Espresso,card,wednesday
+489,15-05-2024,20:20:35,37.72,Cappuccino,card,wednesday
+490,16-05-2024,10:38:42,32.82,Americano with Milk,card,thursday
+491,16-05-2024,10:39:49,32.82,Americano with Milk,card,thursday
+492,16-05-2024,11:42:50,39,Latte,cash,thursday
+493,16-05-2024,11:44:21,39,Cappuccino,cash,thursday
+494,16-05-2024,12:14:00,32.82,Americano with Milk,card,thursday
+495,16-05-2024,15:15:16,37.72,Hot Chocolate,card,thursday
+496,16-05-2024,17:44:32,37.72,Latte,card,thursday
+497,16-05-2024,18:12:57,37.72,Hot Chocolate,card,thursday
+498,16-05-2024,18:13:58,37.72,Latte,card,thursday
+499,17-05-2024,09:00:48,27.92,Americano,card,friday
+500,17-05-2024,11:30:28,32.82,Americano with Milk,card,friday
+501,17-05-2024,14:58:03,34,Americano with Milk,cash,friday
+502,17-05-2024,19:55:19,32.82,Americano with Milk,card,friday
+503,17-05-2024,19:56:47,37.72,Cappuccino,card,friday
+504,17-05-2024,20:37:53,37.72,Cappuccino,card,friday
+505,17-05-2024,22:34:51,27.92,Americano,card,friday
+506,17-05-2024,22:36:33,37.72,Latte,card,friday
+507,17-05-2024,22:37:43,37.72,Latte,card,friday
+508,18-05-2024,08:01:38,37.72,Cappuccino,card,saturday
+509,18-05-2024,08:02:40,37.72,Cappuccino,card,saturday
+510,18-05-2024,11:15:56,32.82,Americano with Milk,card,saturday
+511,18-05-2024,16:48:29,32.82,Americano with Milk,card,saturday
+512,18-05-2024,16:49:27,32.82,Americano with Milk,card,saturday
+513,18-05-2024,19:58:44,32.82,Americano with Milk,card,saturday
+514,18-05-2024,20:22:53,37.72,Latte,card,saturday
+515,18-05-2024,22:05:27,39,Cappuccino,cash,saturday
+516,19-05-2024,07:58:38,27.92,Americano,card,sunday
+517,19-05-2024,07:59:34,27.92,Americano,card,sunday
+518,19-05-2024,08:00:35,37.72,Cappuccino,card,sunday
+519,19-05-2024,09:28:50,24,Espresso,cash,sunday
+520,19-05-2024,12:14:27,32.82,Americano with Milk,card,sunday
+521,19-05-2024,14:43:40,27.92,Americano,card,sunday
+522,19-05-2024,15:58:58,32.82,Americano with Milk,card,sunday
+523,19-05-2024,18:12:36,32.82,Americano with Milk,card,sunday
+524,19-05-2024,18:13:48,23.02,Espresso,card,sunday
+525,19-05-2024,18:16:30,37.72,Hot Chocolate,card,sunday
+526,19-05-2024,19:51:07,37.72,Cappuccino,card,sunday
+527,19-05-2024,21:15:42,37.72,Cappuccino,card,sunday
+528,19-05-2024,21:18:36,37.72,Cappuccino,card,sunday
+529,20-05-2024,10:05:59,32.82,Americano with Milk,card,monday
+530,20-05-2024,10:17:52,37.72,Latte,card,monday
+531,20-05-2024,10:58:48,37.72,Latte,card,monday
+532,20-05-2024,11:15:16,27.92,Americano,card,monday
+533,20-05-2024,11:16:20,27.92,Americano,card,monday
+534,20-05-2024,13:27:13,27.92,Americano,card,monday
+535,20-05-2024,13:28:10,27.92,Americano,card,monday
+536,20-05-2024,14:13:19,32.82,Americano with Milk,card,monday
+537,20-05-2024,14:14:31,37.72,Cappuccino,card,monday
+538,20-05-2024,14:32:21,29,Americano,cash,monday
+539,20-05-2024,17:12:51,37.72,Latte,card,monday
+540,20-05-2024,17:13:57,37.72,Latte,card,monday
+541,20-05-2024,20:36:48,32.82,Americano with Milk,card,monday
+542,20-05-2024,20:37:57,37.72,Cocoa,card,monday
+543,20-05-2024,20:46:52,27.92,Cortado,card,monday
+544,20-05-2024,21:36:54,32.82,Americano with Milk,card,monday
+545,20-05-2024,21:37:58,32.82,Americano with Milk,card,monday
+546,21-05-2024,08:27:38,37.72,Latte,card,tuesday
+547,21-05-2024,09:43:51,29,Americano,cash,tuesday
+548,21-05-2024,09:44:40,34,Americano with Milk,cash,tuesday
+549,21-05-2024,09:46:09,39,Cocoa,cash,tuesday
+550,21-05-2024,10:05:08,39,Latte,cash,tuesday
+551,21-05-2024,16:10:20,37.72,Latte,card,tuesday
+552,21-05-2024,18:13:24,23.02,Espresso,card,tuesday
+553,21-05-2024,19:11:09,37.72,Cappuccino,card,tuesday
+554,21-05-2024,20:13:48,37.72,Cappuccino,card,tuesday
+555,22-05-2024,09:34:42,37.72,Cappuccino,card,wednesday
+556,22-05-2024,10:49:47,32.82,Americano with Milk,card,wednesday
+557,22-05-2024,11:18:14,27.92,Cortado,card,wednesday
+558,22-05-2024,11:34:55,32.82,Americano with Milk,card,wednesday
+559,22-05-2024,12:29:51,27.92,Americano,card,wednesday
+560,22-05-2024,12:30:43,27.92,Americano,card,wednesday
+561,22-05-2024,14:00:20,32.82,Americano with Milk,card,wednesday
+562,22-05-2024,19:24:58,37.72,Cappuccino,card,wednesday
+563,22-05-2024,19:25:59,37.72,Cappuccino,card,wednesday
+564,22-05-2024,21:23:53,37.72,Hot Chocolate,card,wednesday
+565,22-05-2024,21:24:50,37.72,Cappuccino,card,wednesday
+566,23-05-2024,10:10:20,37.72,Cappuccino,card,thursday
+567,23-05-2024,12:22:07,23.02,Espresso,card,thursday
+568,23-05-2024,15:55:17,37.72,Cappuccino,card,thursday
+569,23-05-2024,15:56:27,37.72,Cappuccino,card,thursday
+570,23-05-2024,16:18:14,37.72,Cappuccino,card,thursday
+571,23-05-2024,16:41:00,37.72,Latte,card,thursday
+572,23-05-2024,17:14:33,37.72,Cappuccino,card,thursday
+573,23-05-2024,17:15:45,37.72,Latte,card,thursday
+574,23-05-2024,19:03:54,27.92,Cortado,card,thursday
+575,23-05-2024,19:17:28,37.72,Cappuccino,card,thursday
+576,23-05-2024,19:18:26,37.72,Cappuccino,card,thursday
+577,23-05-2024,19:42:32,37.72,Cappuccino,card,thursday
+578,23-05-2024,20:15:01,37.72,Cappuccino,card,thursday
+579,23-05-2024,20:16:24,37.72,Latte,card,thursday
+580,23-05-2024,22:48:11,32.82,Americano with Milk,card,thursday
+581,23-05-2024,22:55:37,39,Hot Chocolate,cash,thursday
+582,24-05-2024,11:11:59,27.92,Cortado,card,friday
+583,24-05-2024,11:15:08,27.92,Americano,card,friday
+584,24-05-2024,11:16:13,27.92,Americano,card,friday
+585,24-05-2024,16:07:20,37.72,Hot Chocolate,card,friday
+586,24-05-2024,18:17:40,27.92,Cortado,card,friday
+587,24-05-2024,18:18:37,27.92,Cortado,card,friday
+588,24-05-2024,22:30:40,32.82,Americano with Milk,card,friday
+589,25-05-2024,07:40:59,29,Americano,cash,saturday
+590,25-05-2024,12:13:53,37.72,Latte,card,saturday
+591,25-05-2024,12:40:24,29,Americano,cash,saturday
+592,25-05-2024,12:42:10,32.82,Americano with Milk,card,saturday
+593,25-05-2024,12:43:13,32.82,Americano with Milk,card,saturday
+594,25-05-2024,12:58:12,32.82,Americano with Milk,card,saturday
+595,25-05-2024,16:47:10,32.82,Americano with Milk,card,saturday
+596,25-05-2024,16:48:17,27.92,Americano,card,saturday
+597,26-05-2024,10:20:02,37.72,Latte,card,sunday
+598,26-05-2024,14:24:50,32.82,Americano with Milk,card,sunday
+599,26-05-2024,14:26:05,27.92,Cortado,card,sunday
+600,26-05-2024,14:40:59,32.82,Americano with Milk,card,sunday
+601,26-05-2024,17:19:16,37.72,Cappuccino,card,sunday
+602,26-05-2024,18:09:53,37.72,Hot Chocolate,card,sunday
+603,26-05-2024,18:11:02,37.72,Hot Chocolate,card,sunday
+604,26-05-2024,18:13:14,27.92,Americano,card,sunday
+605,26-05-2024,18:39:19,37.72,Latte,card,sunday
+606,26-05-2024,20:59:15,37.72,Hot Chocolate,card,sunday
+607,26-05-2024,21:00:06,37.72,Cappuccino,card,sunday
+608,26-05-2024,21:02:37,27.92,Cortado,card,sunday
+609,26-05-2024,21:03:52,37.72,Cappuccino,card,sunday
+610,26-05-2024,21:04:59,37.72,Latte,card,sunday
+611,26-05-2024,21:06:03,37.72,Cappuccino,card,sunday
+612,27-05-2024,11:34:55,27.92,Americano,card,monday
+613,27-05-2024,14:05:22,32.82,Americano with Milk,card,monday
+614,27-05-2024,14:06:44,37.72,Cocoa,card,monday
+615,27-05-2024,15:11:34,27.92,Americano,card,monday
+616,27-05-2024,15:14:06,27.92,Americano,card,monday
+617,27-05-2024,17:50:56,37.72,Latte,card,monday
+618,27-05-2024,18:00:51,27.92,Americano,card,monday
+619,27-05-2024,19:16:27,37.72,Latte,card,monday
+620,27-05-2024,19:17:39,37.72,Latte,card,monday
+621,27-05-2024,21:29:07,32.82,Americano with Milk,card,monday
+622,27-05-2024,21:30:20,37.72,Cappuccino,card,monday
+623,28-05-2024,08:37:09,32.82,Americano with Milk,card,tuesday
+624,28-05-2024,09:20:11,32.82,Americano with Milk,card,tuesday
+625,28-05-2024,11:48:18,37.72,Cappuccino,card,tuesday
+626,28-05-2024,13:14:40,37.72,Cappuccino,card,tuesday
+627,28-05-2024,14:10:54,37.72,Cocoa,card,tuesday
+628,28-05-2024,16:25:39,27.92,Cortado,card,tuesday
+629,28-05-2024,17:21:44,39,Cappuccino,cash,tuesday
+630,28-05-2024,19:09:29,27.92,Americano,card,tuesday
+631,28-05-2024,19:10:31,37.72,Latte,card,tuesday
+632,28-05-2024,20:24:32,32.82,Americano with Milk,card,tuesday
+633,28-05-2024,20:50:19,27.92,Americano,card,tuesday
+634,29-05-2024,09:14:44,37.72,Latte,card,wednesday
+635,29-05-2024,10:48:47,39,Latte,cash,wednesday
+636,29-05-2024,11:14:03,37.72,Hot Chocolate,card,wednesday
+637,29-05-2024,15:10:49,27.92,Americano,card,wednesday
+638,29-05-2024,15:22:56,37.72,Latte,card,wednesday
+639,29-05-2024,15:45:13,37.72,Cappuccino,card,wednesday
+640,29-05-2024,16:45:04,37.72,Latte,card,wednesday
+641,29-05-2024,18:24:03,27.92,Cortado,card,wednesday
+642,29-05-2024,18:24:59,37.72,Latte,card,wednesday
+643,29-05-2024,20:30:42,37.72,Hot Chocolate,card,wednesday
+644,29-05-2024,20:32:35,37.72,Cocoa,card,wednesday
+645,30-05-2024,08:29:06,37.72,Cappuccino,card,thursday
+646,30-05-2024,08:30:22,37.72,Latte,card,thursday
+647,30-05-2024,08:37:05,32.82,Americano with Milk,card,thursday
+648,30-05-2024,09:47:59,37.72,Latte,card,thursday
+649,30-05-2024,14:56:15,32.82,Americano with Milk,card,thursday
+650,30-05-2024,15:16:16,23.02,Espresso,card,thursday
+651,30-05-2024,15:17:39,23.02,Espresso,card,thursday
+652,30-05-2024,19:53:11,37.72,Cappuccino,card,thursday
+653,30-05-2024,20:31:05,37.72,Latte,card,thursday
+654,30-05-2024,20:46:14,37.72,Hot Chocolate,card,thursday
+655,30-05-2024,20:47:22,32.82,Americano with Milk,card,thursday
+656,31-05-2024,07:53:57,32.82,Americano with Milk,card,friday
+657,31-05-2024,09:21:08,37.72,Latte,card,friday
+658,31-05-2024,09:23:59,39,Latte,cash,friday
+659,31-05-2024,10:38:08,37.72,Hot Chocolate,card,friday
+660,31-05-2024,10:39:06,37.72,Cocoa,card,friday
+661,31-05-2024,14:50:13,32.82,Americano with Milk,card,friday
+662,31-05-2024,18:23:45,37.72,Latte,card,friday
+663,31-05-2024,18:25:03,37.72,Latte,card,friday
+664,31-05-2024,20:06:39,37.72,Cappuccino,card,friday
+665,31-05-2024,20:33:06,32.82,Americano with Milk,card,friday
+666,31-05-2024,20:34:33,37.72,Latte,card,friday
+667,31-05-2024,22:05:47,37.72,Cappuccino,card,friday
+668,31-05-2024,22:06:52,32.82,Americano with Milk,card,friday
+669,31-05-2024,22:07:55,27.92,Cortado,card,friday
+670,01-06-2024,08:27:02,27.92,Cortado,card,saturday
+671,01-06-2024,09:48:25,37.72,Latte,card,saturday
+672,01-06-2024,11:38:09,37.72,Latte,card,saturday
+673,01-06-2024,14:28:54,32.82,Americano with Milk,card,saturday
+674,01-06-2024,18:20:13,32.82,Americano with Milk,card,saturday
+675,01-06-2024,18:21:15,32.82,Americano with Milk,card,saturday
+676,01-06-2024,20:50:10,37.72,Cappuccino,card,saturday
+677,01-06-2024,20:51:14,37.72,Cappuccino,card,saturday
+678,01-06-2024,20:54:59,39,Cocoa,cash,saturday
+679,01-06-2024,20:59:10,37.72,Cocoa,card,saturday
+680,01-06-2024,21:51:05,32.82,Americano with Milk,card,saturday
+681,02-06-2024,20:03:26,37.72,Latte,card,sunday
+682,02-06-2024,20:24:02,32.82,Americano with Milk,card,sunday
+683,02-06-2024,20:25:07,37.72,Cappuccino,card,sunday
+684,02-06-2024,21:07:21,32.82,Americano with Milk,card,sunday
+685,02-06-2024,21:30:12,37.72,Latte,card,sunday
+686,02-06-2024,22:43:11,34,Americano with Milk,cash,sunday
+687,03-06-2024,10:12:04,37.72,Latte,card,monday
+688,03-06-2024,10:27:50,37.72,Latte,card,monday
+689,03-06-2024,14:31:42,37.72,Cappuccino,card,monday
+690,03-06-2024,14:33:01,32.82,Americano with Milk,card,monday
+691,03-06-2024,14:34:07,37.72,Latte,card,monday
+692,03-06-2024,21:42:52,34,Americano with Milk,cash,monday
+693,03-06-2024,21:43:37,34,Americano with Milk,cash,monday
+694,04-06-2024,09:23:43,27.92,Cortado,card,tuesday
+695,04-06-2024,10:27:14,32.82,Americano with Milk,card,tuesday
+696,04-06-2024,12:02:10,37.72,Latte,card,tuesday
+697,04-06-2024,12:05:29,37.72,Hot Chocolate,card,tuesday
+698,04-06-2024,15:30:32,37.72,Latte,card,tuesday
+699,04-06-2024,17:46:37,27.92,Cortado,card,tuesday
+700,04-06-2024,17:47:29,37.72,Cappuccino,card,tuesday
+701,04-06-2024,20:13:01,37.72,Hot Chocolate,card,tuesday
+702,04-06-2024,20:50:34,37.72,Cappuccino,card,tuesday
+703,04-06-2024,21:31:59,27.92,Cortado,card,tuesday
+704,04-06-2024,21:33:03,32.82,Americano with Milk,card,tuesday
+705,04-06-2024,21:34:56,32.82,Americano with Milk,card,tuesday
+706,04-06-2024,21:36:07,32.82,Americano with Milk,card,tuesday
+707,04-06-2024,21:37:15,32.82,Americano with Milk,card,tuesday
+708,05-06-2024,08:21:49,37.72,Cappuccino,card,wednesday
+709,05-06-2024,08:23:07,37.72,Cappuccino,card,wednesday
+710,05-06-2024,09:22:43,27.92,Americano,card,wednesday
+711,05-06-2024,10:28:51,37.72,Latte,card,wednesday
+712,05-06-2024,10:40:53,32.82,Americano with Milk,card,wednesday
+713,05-06-2024,19:43:58,32.82,Americano with Milk,card,wednesday
+714,05-06-2024,19:59:54,37.72,Latte,card,wednesday
+715,05-06-2024,20:10:48,37.72,Cocoa,card,wednesday
+716,05-06-2024,20:12:02,27.92,Cortado,card,wednesday
+717,06-06-2024,08:52:56,32.82,Americano with Milk,card,thursday
+718,06-06-2024,08:54:08,32.82,Americano with Milk,card,thursday
+719,06-06-2024,10:36:10,37.72,Latte,card,thursday
+720,06-06-2024,12:17:41,27.92,Americano,card,thursday
+721,06-06-2024,15:11:14,32.82,Americano with Milk,card,thursday
+722,06-06-2024,15:24:06,37.72,Cappuccino,card,thursday
+723,06-06-2024,21:14:05,37.72,Latte,card,thursday
+724,06-06-2024,21:15:42,37.72,Latte,card,thursday
+725,06-06-2024,21:18:27,37.72,Cappuccino,card,thursday
+726,06-06-2024,21:19:30,32.82,Americano with Milk,card,thursday
+727,06-06-2024,21:21:04,37.72,Latte,card,thursday
+728,07-06-2024,08:18:04,37.72,Cappuccino,card,friday
+729,07-06-2024,10:35:28,23.02,Espresso,card,friday
+730,07-06-2024,13:34:18,32.82,Americano with Milk,card,friday
+731,07-06-2024,16:45:42,27.92,Cortado,card,friday
+732,07-06-2024,16:47:15,27.92,Cortado,card,friday
+733,08-06-2024,09:04:20,27.92,Cortado,card,saturday
+734,08-06-2024,09:26:11,32.82,Americano with Milk,card,saturday
+735,08-06-2024,20:24:54,37.72,Cappuccino,card,saturday
+736,08-06-2024,20:25:56,37.72,Cappuccino,card,saturday
+737,09-06-2024,08:15:53,37.72,Latte,card,sunday
+738,09-06-2024,10:30:04,37.72,Latte,card,sunday
+739,09-06-2024,10:52:06,37.72,Cappuccino,card,sunday
+740,09-06-2024,11:04:41,27.92,Cortado,card,sunday
+741,09-06-2024,11:07:08,23.02,Espresso,card,sunday
+742,09-06-2024,11:52:50,37.72,Cappuccino,card,sunday
+743,09-06-2024,12:11:24,32.82,Americano with Milk,card,sunday
+744,09-06-2024,12:13:08,37.72,Latte,card,sunday
+745,09-06-2024,12:14:11,37.72,Latte,card,sunday
+746,09-06-2024,15:10:31,27.92,Cortado,card,sunday
+747,09-06-2024,16:17:28,37.72,Cappuccino,card,sunday
+748,09-06-2024,19:21:19,32.82,Americano with Milk,card,sunday
+749,09-06-2024,21:05:09,27.92,Americano,card,sunday
+750,10-06-2024,12:47:50,37.72,Cappuccino,card,monday
+751,10-06-2024,12:56:48,37.72,Latte,card,monday
+752,10-06-2024,19:04:28,37.72,Hot Chocolate,card,monday
+753,10-06-2024,19:05:23,37.72,Hot Chocolate,card,monday
+754,10-06-2024,19:37:24,37.72,Latte,card,monday
+755,10-06-2024,19:38:20,37.72,Latte,card,monday
+756,11-06-2024,10:38:04,32.82,Americano with Milk,card,tuesday
+757,11-06-2024,18:48:25,37.72,Latte,card,tuesday
+758,11-06-2024,18:49:36,37.72,Latte,card,tuesday
+759,11-06-2024,21:17:03,37.72,Hot Chocolate,card,tuesday
+760,11-06-2024,21:27:42,32.82,Americano with Milk,card,tuesday
+761,11-06-2024,21:28:50,32.82,Americano with Milk,card,tuesday
+762,12-06-2024,10:18:19,37.72,Hot Chocolate,card,wednesday
+763,12-06-2024,11:51:44,37.72,Cappuccino,card,wednesday
+764,12-06-2024,17:41:17,37.72,Latte,card,wednesday
+765,12-06-2024,17:47:28,37.72,Latte,card,wednesday
+766,12-06-2024,20:16:34,37.72,Hot Chocolate,card,wednesday
+767,12-06-2024,20:25:34,32.82,Americano with Milk,card,wednesday
+768,13-06-2024,08:54:24,27.92,Americano,card,thursday
+769,13-06-2024,08:57:26,37.72,Latte,card,thursday
+770,13-06-2024,09:50:25,32.82,Americano with Milk,card,thursday
+771,13-06-2024,09:57:12,27.92,Cortado,card,thursday
+772,13-06-2024,17:04:59,32.82,Americano with Milk,card,thursday
+773,13-06-2024,17:27:47,37.72,Hot Chocolate,card,thursday
+774,13-06-2024,19:22:19,37.72,Latte,card,thursday
+775,13-06-2024,20:20:52,32.82,Americano with Milk,card,thursday
+776,13-06-2024,20:43:46,23.02,Espresso,card,thursday
+777,13-06-2024,20:45:01,23.02,Espresso,card,thursday
+778,13-06-2024,20:48:18,32.82,Americano with Milk,card,thursday
+779,13-06-2024,21:02:28,32.82,Americano with Milk,card,thursday
+780,14-06-2024,07:46:13,27.92,Cortado,card,friday
+781,14-06-2024,10:30:32,27.92,Americano,card,friday
+782,14-06-2024,12:14:42,37.72,Latte,card,friday
+783,14-06-2024,18:29:53,32.82,Americano with Milk,card,friday
+784,15-06-2024,11:26:02,37.72,Cappuccino,card,saturday
+785,15-06-2024,12:21:28,37.72,Latte,card,saturday
+786,15-06-2024,12:22:47,32.82,Americano with Milk,card,saturday
+787,15-06-2024,12:23:52,23.02,Espresso,card,saturday
+788,15-06-2024,12:24:35,37.72,Cocoa,card,saturday
+789,15-06-2024,12:25:24,32.82,Americano with Milk,card,saturday
+790,15-06-2024,16:03:30,32.82,Americano with Milk,card,saturday
+791,15-06-2024,18:14:05,27.92,Americano,card,saturday
+792,16-06-2024,10:43:51,32.82,Americano with Milk,card,sunday
+793,16-06-2024,10:58:41,37.72,Latte,card,sunday
+794,16-06-2024,11:00:38,37.72,Hot Chocolate,card,sunday
+795,16-06-2024,11:01:41,37.72,Hot Chocolate,card,sunday
+796,16-06-2024,12:49:28,32.82,Americano with Milk,card,sunday
+797,16-06-2024,14:00:39,23.02,Espresso,card,sunday
+798,16-06-2024,15:02:36,32.82,Americano with Milk,card,sunday
+799,16-06-2024,15:05:10,32.82,Americano with Milk,card,sunday
+800,16-06-2024,15:44:00,37.72,Hot Chocolate,card,sunday
+801,16-06-2024,16:47:37,37.72,Hot Chocolate,card,sunday
+802,16-06-2024,17:45:17,32.82,Americano with Milk,card,sunday
+803,16-06-2024,17:46:17,32.82,Americano with Milk,card,sunday
+804,17-06-2024,08:57:24,27.92,Americano,card,monday
+805,17-06-2024,10:12:05,27.92,Cortado,card,monday
+806,17-06-2024,10:13:38,27.92,Cortado,card,monday
+807,17-06-2024,10:55:52,37.72,Cappuccino,card,monday
+808,17-06-2024,14:51:35,37.72,Cappuccino,card,monday
+809,17-06-2024,16:50:13,37.72,Cappuccino,card,monday
+810,17-06-2024,16:51:11,37.72,Cappuccino,card,monday
+811,17-06-2024,16:52:36,27.92,Americano,card,monday
+812,17-06-2024,18:51:20,27.92,Americano,card,monday
+813,17-06-2024,21:16:11,32.82,Americano with Milk,card,monday
+814,18-06-2024,14:04:06,27.92,Americano,card,tuesday
+815,18-06-2024,14:05:12,37.72,Cappuccino,card,tuesday
+816,18-06-2024,19:20:41,37.72,Cappuccino,card,tuesday
+817,18-06-2024,19:21:39,37.72,Cappuccino,card,tuesday
+818,18-06-2024,20:35:49,27.92,Cortado,card,tuesday
+819,18-06-2024,21:20:50,32.82,Americano with Milk,card,tuesday
+820,18-06-2024,21:22:19,32.82,Americano with Milk,card,tuesday
+821,19-06-2024,07:47:20,37.72,Latte,card,wednesday
+822,19-06-2024,08:17:55,27.92,Cortado,card,wednesday
+823,19-06-2024,10:54:00,27.92,Americano,card,wednesday
+824,19-06-2024,11:11:28,37.72,Latte,card,wednesday
+825,19-06-2024,11:12:31,37.72,Cocoa,card,wednesday
+826,19-06-2024,14:21:36,32.82,Americano with Milk,card,wednesday
+827,19-06-2024,18:28:43,37.72,Cappuccino,card,wednesday
+828,19-06-2024,18:29:59,37.72,Latte,card,wednesday
+829,19-06-2024,19:31:31,32.82,Americano with Milk,card,wednesday
+830,19-06-2024,21:28:59,37.72,Cappuccino,card,wednesday
+831,19-06-2024,21:30:03,32.82,Americano with Milk,card,wednesday
+832,20-06-2024,10:50:06,37.72,Latte,card,thursday
+833,20-06-2024,18:59:02,37.72,Latte,card,thursday
+834,20-06-2024,19:00:00,37.72,Latte,card,thursday
+835,20-06-2024,21:39:10,37.72,Latte,card,thursday
+836,20-06-2024,21:57:41,37.72,Latte,card,thursday
+837,20-06-2024,21:59:18,32.82,Americano with Milk,card,thursday
+838,21-06-2024,09:59:56,37.72,Latte,card,friday
+839,21-06-2024,10:01:40,27.92,Americano,card,friday
+840,21-06-2024,13:19:19,32.82,Americano with Milk,card,friday
+841,21-06-2024,13:20:32,32.82,Americano with Milk,card,friday
+842,21-06-2024,18:12:16,23.02,Espresso,card,friday
+843,21-06-2024,19:30:27,37.72,Latte,card,friday
+844,21-06-2024,19:47:06,37.72,Cappuccino,card,friday
+845,21-06-2024,19:48:07,37.72,Cappuccino,card,friday
+846,21-06-2024,19:49:55,37.72,Cappuccino,card,friday
+847,21-06-2024,19:51:00,37.72,Cappuccino,card,friday
+848,21-06-2024,19:52:19,27.92,Americano,card,friday
+849,21-06-2024,19:55:37,32.82,Americano with Milk,card,friday
+850,22-06-2024,08:39:50,27.92,Cortado,card,saturday
+851,22-06-2024,09:37:49,32.82,Americano with Milk,card,saturday
+852,22-06-2024,12:53:16,32.82,Americano with Milk,card,saturday
+853,22-06-2024,15:37:20,37.72,Latte,card,saturday
+854,22-06-2024,22:10:23,37.72,Cappuccino,card,saturday
+855,23-06-2024,18:12:01,32.82,Americano with Milk,card,sunday
+856,23-06-2024,18:13:51,32.82,Americano with Milk,card,sunday
+857,23-06-2024,21:06:47,37.72,Cappuccino,card,sunday
+858,23-06-2024,21:29:08,37.72,Latte,card,sunday
+859,23-06-2024,21:30:36,37.72,Cappuccino,card,sunday
+860,24-06-2024,11:44:40,32.82,Americano with Milk,card,monday
+861,24-06-2024,11:49:36,37.72,Cappuccino,card,monday
+862,24-06-2024,11:50:44,37.72,Cappuccino,card,monday
+863,24-06-2024,15:02:29,37.72,Latte,card,monday
+864,24-06-2024,16:46:01,37.72,Cappuccino,card,monday
+865,24-06-2024,16:47:00,37.72,Cappuccino,card,monday
+866,25-06-2024,08:19:24,37.72,Latte,card,tuesday
+867,25-06-2024,10:28:26,32.82,Americano with Milk,card,tuesday
+868,25-06-2024,10:29:42,32.82,Americano with Milk,card,tuesday
+869,25-06-2024,11:34:52,37.72,Cappuccino,card,tuesday
+870,26-06-2024,09:33:02,37.72,Latte,card,wednesday
+871,26-06-2024,16:32:29,23.02,Espresso,card,wednesday
+872,26-06-2024,16:34:02,27.92,Americano,card,wednesday
+873,26-06-2024,21:21:53,37.72,Latte,card,wednesday
+874,26-06-2024,21:27:01,37.72,Cappuccino,card,wednesday
+875,26-06-2024,21:28:15,32.82,Americano with Milk,card,wednesday
+876,27-06-2024,09:15:43,32.82,Americano with Milk,card,thursday
+877,27-06-2024,16:11:48,27.92,Cortado,card,thursday
+878,27-06-2024,21:44:03,32.82,Americano with Milk,card,thursday
+879,27-06-2024,21:50:32,37.72,Cappuccino,card,thursday
+880,28-06-2024,08:08:35,27.92,Cortado,card,friday
+881,28-06-2024,17:51:54,23.02,Espresso,card,friday
+882,28-06-2024,21:50:55,32.82,Americano with Milk,card,friday
+883,28-06-2024,21:52:02,37.72,Latte,card,friday
+884,28-06-2024,22:28:20,37.72,Cappuccino,card,friday
+885,29-06-2024,09:47:10,32.82,Americano with Milk,card,saturday
+886,29-06-2024,11:40:20,32.82,Americano with Milk,card,saturday
+887,29-06-2024,11:41:27,32.82,Americano with Milk,card,saturday
+888,29-06-2024,12:30:24,37.72,Cappuccino,card,saturday
+889,29-06-2024,12:31:43,37.72,Cappuccino,card,saturday
+890,29-06-2024,17:23:44,37.72,Cappuccino,card,saturday
+891,29-06-2024,17:24:52,37.72,Hot Chocolate,card,saturday
+892,29-06-2024,21:27:22,37.72,Latte,card,saturday
+893,30-06-2024,10:28:10,37.72,Latte,card,sunday
+894,30-06-2024,13:05:51,23.02,Espresso,card,sunday
+895,30-06-2024,16:54:42,37.72,Hot Chocolate,card,sunday
+896,30-06-2024,21:04:10,32.82,Americano with Milk,card,sunday
+897,01-07-2024,18:07:27,23.02,Espresso,card,monday
+898,01-07-2024,18:56:52,37.72,Cappuccino,card,monday
+899,01-07-2024,18:57:54,37.72,Cappuccino,card,monday
+900,02-07-2024,10:42:54,32.82,Americano with Milk,card,tuesday
+901,02-07-2024,10:45:01,27.92,Americano,card,tuesday
+902,02-07-2024,12:48:05,37.72,Latte,card,tuesday
+903,02-07-2024,14:03:13,27.92,Americano,card,tuesday
+904,02-07-2024,16:31:24,32.82,Americano with Milk,card,tuesday
+905,02-07-2024,22:02:24,32.82,Americano with Milk,card,tuesday
+906,03-07-2024,13:51:15,32.82,Americano with Milk,card,wednesday
+907,03-07-2024,16:01:17,37.72,Cappuccino,card,wednesday
+908,03-07-2024,16:50:25,37.72,Cappuccino,card,wednesday
+909,03-07-2024,16:53:16,32.82,Americano with Milk,card,wednesday
+910,03-07-2024,16:54:23,32.82,Americano with Milk,card,wednesday
+911,03-07-2024,16:55:31,37.72,Latte,card,wednesday
+912,03-07-2024,16:59:26,23.02,Espresso,card,wednesday
+913,03-07-2024,17:59:02,37.72,Cappuccino,card,wednesday
+914,03-07-2024,19:06:09,37.72,Latte,card,wednesday
+915,04-07-2024,10:26:24,32.82,Americano with Milk,card,thursday
+916,04-07-2024,10:27:30,27.92,Americano,card,thursday
+917,05-07-2024,12:20:29,37.72,Cocoa,card,friday
+918,05-07-2024,13:43:43,32.82,Americano with Milk,card,friday
+919,05-07-2024,13:44:44,32.82,Americano with Milk,card,friday
+920,05-07-2024,18:55:56,23.02,Espresso,card,friday
+921,05-07-2024,19:55:08,27.92,Americano,card,friday
+922,05-07-2024,22:11:56,23.02,Espresso,card,friday
+923,05-07-2024,22:18:03,27.92,Americano,card,friday
+924,05-07-2024,22:18:57,27.92,Americano,card,friday
+925,05-07-2024,22:20:01,37.72,Cappuccino,card,friday
+926,05-07-2024,22:21:09,32.82,Americano with Milk,card,friday
+927,06-07-2024,10:28:07,37.72,Latte,card,saturday
+928,06-07-2024,17:15:46,32.82,Latte,card,saturday
+929,06-07-2024,17:17:01,32.82,Latte,card,saturday
+930,06-07-2024,19:09:46,32.82,Latte,card,saturday
+931,06-07-2024,19:10:40,27.92,Americano with Milk,card,saturday
+932,07-07-2024,09:04:20,32.82,Cappuccino,card,sunday
+933,07-07-2024,09:14:29,27.92,Americano with Milk,card,sunday
+934,07-07-2024,09:15:37,27.92,Americano with Milk,card,sunday
+935,07-07-2024,09:28:49,32.82,Cappuccino,card,sunday
+936,07-07-2024,09:29:56,32.82,Cappuccino,card,sunday
+937,07-07-2024,14:56:30,32.82,Hot Chocolate,card,sunday
+938,07-07-2024,14:57:47,32.82,Cocoa,card,sunday
+939,07-07-2024,17:07:50,32.82,Latte,card,sunday
+940,07-07-2024,19:33:27,32.82,Cappuccino,card,sunday
+941,07-07-2024,20:01:32,32.82,Hot Chocolate,card,sunday
+942,07-07-2024,22:33:36,27.92,Americano with Milk,card,sunday
+943,08-07-2024,07:33:08,32.82,Latte,card,monday
+944,08-07-2024,12:02:50,23.02,Americano,card,monday
+945,08-07-2024,14:40:24,23.02,Americano,card,monday
+946,08-07-2024,19:30:35,27.92,Americano with Milk,card,monday
+947,08-07-2024,22:14:46,32.82,Latte,card,monday
+948,09-07-2024,10:26:52,27.92,Americano with Milk,card,tuesday
+949,09-07-2024,10:40:29,27.92,Americano with Milk,card,tuesday
+950,09-07-2024,11:21:36,27.92,Americano with Milk,card,tuesday
+951,09-07-2024,11:22:50,32.82,Cappuccino,card,tuesday
+952,09-07-2024,16:43:00,27.92,Americano with Milk,card,tuesday
+953,10-07-2024,11:10:42,23.02,Americano,card,wednesday
+954,10-07-2024,12:28:54,27.92,Americano with Milk,card,wednesday
+955,10-07-2024,22:13:10,32.82,Latte,card,wednesday
+956,11-07-2024,11:27:28,32.82,Hot Chocolate,card,thursday
+957,11-07-2024,16:48:19,27.92,Americano with Milk,card,thursday
+958,11-07-2024,22:22:14,32.82,Latte,card,thursday
+959,11-07-2024,22:30:59,23.02,Americano,card,thursday
+960,12-07-2024,08:03:17,23.02,Cortado,card,friday
+961,12-07-2024,11:48:33,32.82,Hot Chocolate,card,friday
+962,12-07-2024,22:33:26,32.82,Hot Chocolate,card,friday
+963,12-07-2024,22:34:14,32.82,Hot Chocolate,card,friday
+964,12-07-2024,22:35:30,32.82,Hot Chocolate,card,friday
+965,13-07-2024,10:38:10,32.82,Latte,card,saturday
+966,13-07-2024,11:41:38,32.82,Latte,card,saturday
+967,14-07-2024,10:54:24,23.02,Americano,card,sunday
+968,14-07-2024,10:55:31,27.92,Americano with Milk,card,sunday
+969,14-07-2024,10:56:30,32.82,Cappuccino,card,sunday
+970,14-07-2024,10:57:54,32.82,Latte,card,sunday
+971,14-07-2024,11:02:12,23.02,Americano,card,sunday
+972,14-07-2024,22:31:30,32.82,Latte,card,sunday
+973,15-07-2024,07:33:06,32.82,Cappuccino,card,monday
+974,16-07-2024,12:23:37,27.92,Americano with Milk,card,tuesday
+975,16-07-2024,19:29:25,32.82,Hot Chocolate,card,tuesday
+976,17-07-2024,13:05:00,27.92,Americano with Milk,card,wednesday
+977,18-07-2024,11:10:13,27.92,Americano with Milk,card,thursday
+978,18-07-2024,11:11:23,18.12,Espresso,card,thursday
+979,18-07-2024,11:33:00,23.02,Americano,card,thursday
+980,18-07-2024,11:34:48,23.02,Americano,card,thursday
+981,18-07-2024,11:35:52,23.02,Cortado,card,thursday
+982,18-07-2024,13:23:34,32.82,Latte,card,thursday
+983,18-07-2024,18:18:23,32.82,Cappuccino,card,thursday
+984,18-07-2024,19:30:51,32.82,Latte,card,thursday
+985,18-07-2024,21:19:42,32.82,Hot Chocolate,card,thursday
+986,18-07-2024,21:22:00,32.82,Latte,card,thursday
+987,18-07-2024,21:46:19,32.82,Latte,card,thursday
+988,19-07-2024,11:03:02,23.02,Americano,card,friday
+989,19-07-2024,11:16:21,27.92,Americano with Milk,card,friday
+990,19-07-2024,12:58:38,32.82,Latte,card,friday
+991,19-07-2024,12:59:55,27.92,Americano with Milk,card,friday
+992,19-07-2024,14:09:21,32.82,Latte,card,friday
+993,19-07-2024,14:11:22,32.82,Cocoa,card,friday
+994,19-07-2024,16:36:19,32.82,Latte,card,friday
+995,19-07-2024,16:37:36,32.82,Latte,card,friday
+996,20-07-2024,08:05:44,23.02,Americano,card,saturday
+997,20-07-2024,08:06:49,32.82,Latte,card,saturday
+998,20-07-2024,08:07:51,23.02,Americano,card,saturday
+999,20-07-2024,09:00:54,32.82,Latte,card,saturday
+1000,20-07-2024,09:02:28,32.82,Latte,card,saturday
+1001,20-07-2024,10:39:21,23.02,Americano,card,saturday
+1002,20-07-2024,15:15:09,32.82,Latte,card,saturday
+1003,21-07-2024,10:30:56,32.82,Cocoa,card,sunday
+1004,21-07-2024,11:39:29,32.82,Cappuccino,card,sunday
+1005,21-07-2024,13:34:31,23.02,Cortado,card,sunday
+1006,21-07-2024,13:42:31,32.82,Latte,card,sunday
+1007,22-07-2024,08:13:23,23.02,Americano,card,monday
+1008,22-07-2024,08:40:50,23.02,Americano,card,monday
+1009,22-07-2024,10:15:37,27.92,Americano with Milk,card,monday
+1010,22-07-2024,16:44:38,32.82,Latte,card,monday
+1011,23-07-2024,08:12:56,32.82,Latte,card,tuesday
+1012,23-07-2024,08:40:19,23.02,Americano,card,tuesday
+1013,23-07-2024,08:44:54,27.92,Americano with Milk,card,tuesday
+1014,23-07-2024,08:49:25,32.82,Cocoa,card,tuesday
+1015,23-07-2024,08:51:10,32.82,Latte,card,tuesday
+1016,23-07-2024,09:01:46,23.02,Americano,card,tuesday
+1017,23-07-2024,10:03:36,27.92,Americano with Milk,card,tuesday
+1018,23-07-2024,15:20:05,27.92,Americano with Milk,card,tuesday
+1019,23-07-2024,15:21:01,32.82,Latte,card,tuesday
+1020,23-07-2024,21:01:41,32.82,Latte,card,tuesday
+1021,23-07-2024,21:23:14,23.02,Americano,card,tuesday
+1022,23-07-2024,21:24:23,23.02,Americano,card,tuesday
+1023,24-07-2024,09:16:10,27.92,Americano with Milk,card,wednesday
+1024,24-07-2024,09:38:55,27.92,Americano with Milk,card,wednesday
+1025,24-07-2024,09:54:37,18.12,Espresso,card,wednesday
+1026,24-07-2024,11:43:53,32.82,Cappuccino,card,wednesday
+1027,24-07-2024,13:55:14,32.82,Latte,card,wednesday
+1028,24-07-2024,14:45:50,18.12,Espresso,card,wednesday
+1029,24-07-2024,15:18:31,32.82,Latte,card,wednesday
+1030,24-07-2024,19:15:06,32.82,Cappuccino,card,wednesday
+1031,24-07-2024,19:17:00,32.82,Cappuccino,card,wednesday
+1032,24-07-2024,21:17:37,27.92,Americano with Milk,card,wednesday
+1033,24-07-2024,21:18:41,23.02,Americano,card,wednesday
+1034,24-07-2024,21:25:17,23.02,Americano,card,wednesday
+1035,25-07-2024,07:54:48,23.02,Americano,card,thursday
+1036,25-07-2024,08:49:18,32.82,Latte,card,thursday
+1037,25-07-2024,10:29:45,27.92,Americano with Milk,card,thursday
+1038,25-07-2024,11:26:05,23.02,Americano,card,thursday
+1039,25-07-2024,15:25:07,32.82,Cappuccino,card,thursday
+1040,25-07-2024,19:21:01,32.82,Cappuccino,card,thursday
+1041,25-07-2024,21:06:01,23.02,Cortado,card,thursday
+1042,25-07-2024,21:06:50,18.12,Espresso,card,thursday
+1043,25-07-2024,22:38:51,23.02,Cortado,card,thursday
+1044,25-07-2024,22:39:47,32.82,Cocoa,card,thursday
+1045,26-07-2024,08:33:01,32.82,Latte,card,friday
+1046,26-07-2024,09:19:37,27.92,Americano with Milk,card,friday
+1047,26-07-2024,09:20:34,18.12,Espresso,card,friday
+1048,26-07-2024,09:33:12,23.02,Cortado,card,friday
+1049,26-07-2024,09:34:17,23.02,Cortado,card,friday
+1050,26-07-2024,09:59:08,32.82,Latte,card,friday
+1051,26-07-2024,10:00:03,32.82,Latte,card,friday
+1052,26-07-2024,11:47:14,27.92,Americano with Milk,card,friday
+1053,26-07-2024,12:07:02,27.92,Americano with Milk,card,friday
+1054,26-07-2024,12:28:08,32.82,Cappuccino,card,friday
+1055,26-07-2024,12:29:18,32.82,Cappuccino,card,friday
+1056,26-07-2024,13:09:56,32.82,Latte,card,friday
+1057,26-07-2024,17:23:29,23.02,Americano,card,friday
+1058,26-07-2024,17:58:29,32.82,Cappuccino,card,friday
+1059,26-07-2024,21:15:10,32.82,Latte,card,friday
+1060,26-07-2024,22:49:52,27.92,Americano with Milk,card,friday
+1061,27-07-2024,09:09:16,32.82,Cappuccino,card,saturday
+1062,27-07-2024,11:55:31,27.92,Americano with Milk,card,saturday
+1063,27-07-2024,12:25:10,27.92,Americano with Milk,card,saturday
+1064,27-07-2024,12:26:13,18.12,Espresso,card,saturday
+1065,27-07-2024,12:33:23,27.92,Americano with Milk,card,saturday
+1066,27-07-2024,14:28:42,18.12,Espresso,card,saturday
+1067,27-07-2024,14:51:53,32.82,Latte,card,saturday
+1068,27-07-2024,17:02:33,32.82,Cappuccino,card,saturday
+1069,27-07-2024,17:03:39,32.82,Cappuccino,card,saturday
+1070,27-07-2024,17:09:00,27.92,Americano with Milk,card,saturday
+1071,27-07-2024,17:10:08,27.92,Americano with Milk,card,saturday
+1072,27-07-2024,20:55:20,32.82,Latte,card,saturday
+1073,27-07-2024,22:56:24,32.82,Cappuccino,card,saturday
+1074,28-07-2024,11:07:26,18.12,Espresso,card,sunday
+1075,28-07-2024,14:17:54,27.92,Americano with Milk,card,sunday
+1076,28-07-2024,14:18:52,32.82,Latte,card,sunday
+1077,29-07-2024,08:12:06,32.82,Latte,card,monday
+1078,29-07-2024,09:04:48,23.02,Americano,card,monday
+1079,29-07-2024,09:15:46,27.92,Americano with Milk,card,monday
+1080,29-07-2024,09:19:44,23.02,Americano,card,monday
+1081,29-07-2024,09:51:25,27.92,Americano with Milk,card,monday
+1082,29-07-2024,09:58:30,32.82,Cappuccino,card,monday
+1083,29-07-2024,10:43:44,32.82,Hot Chocolate,card,monday
+1084,29-07-2024,10:44:56,32.82,Hot Chocolate,card,monday
+1085,29-07-2024,19:06:31,32.82,Cappuccino,card,monday
+1086,29-07-2024,19:30:16,23.02,Americano,card,monday
+1087,29-07-2024,21:57:34,32.82,Cocoa,card,monday
+1088,30-07-2024,07:41:11,27.92,Americano with Milk,card,tuesday
+1089,30-07-2024,08:05:07,23.02,Cortado,card,tuesday
+1090,30-07-2024,08:20:51,32.82,Cappuccino,card,tuesday
+1091,30-07-2024,09:13:43,27.92,Americano with Milk,card,tuesday
+1092,30-07-2024,10:17:11,23.02,Cortado,card,tuesday
+1093,30-07-2024,10:19:34,27.92,Americano with Milk,card,tuesday
+1094,30-07-2024,10:23:20,32.82,Latte,card,tuesday
+1095,30-07-2024,11:12:07,23.02,Americano,card,tuesday
+1096,30-07-2024,11:13:16,18.12,Espresso,card,tuesday
+1097,30-07-2024,11:14:42,27.92,Americano with Milk,card,tuesday
+1098,30-07-2024,11:16:02,27.92,Americano with Milk,card,tuesday
+1099,30-07-2024,11:30:35,27.92,Americano with Milk,card,tuesday
+1100,30-07-2024,11:31:41,27.92,Americano with Milk,card,tuesday
+1101,30-07-2024,12:08:08,32.82,Latte,card,tuesday
+1102,30-07-2024,15:16:10,27.92,Americano with Milk,card,tuesday
+1103,30-07-2024,16:08:53,23.02,Cortado,card,tuesday
+1104,30-07-2024,16:09:44,27.92,Americano with Milk,card,tuesday
+1105,30-07-2024,20:24:20,18.12,Espresso,card,tuesday
+1106,30-07-2024,20:53:52,27.92,Americano with Milk,card,tuesday
+1107,30-07-2024,20:54:46,27.92,Americano with Milk,card,tuesday
+1108,30-07-2024,20:57:02,27.92,Americano with Milk,card,tuesday
+1109,30-07-2024,21:33:19,32.82,Latte,card,tuesday
+1110,30-07-2024,22:15:21,23.02,Americano,card,tuesday
+1111,30-07-2024,22:16:19,32.82,Cappuccino,card,tuesday
+1112,31-07-2024,07:59:52,27.92,Americano with Milk,card,wednesday
+1113,31-07-2024,08:37:42,27.92,Americano with Milk,card,wednesday
+1114,31-07-2024,08:38:38,27.92,Americano with Milk,card,wednesday
+1115,31-07-2024,09:54:45,23.02,Americano,card,wednesday
+1116,31-07-2024,09:55:45,23.02,Americano,card,wednesday
+1117,31-07-2024,09:58:16,27.92,Americano with Milk,card,wednesday
+1118,31-07-2024,13:11:43,32.82,Cocoa,card,wednesday
+1119,31-07-2024,13:14:00,32.82,Latte,card,wednesday
+1120,31-07-2024,13:24:49,27.92,Americano with Milk,card,wednesday
+1121,31-07-2024,17:48:07,23.02,Cortado,card,wednesday
+1122,31-07-2024,18:04:15,32.82,Latte,card,wednesday
+1123,31-07-2024,19:22:39,23.02,Cortado,card,wednesday
+1124,31-07-2024,19:28:45,32.82,Latte,card,wednesday
+1125,31-07-2024,20:46:42,32.82,Cocoa,card,wednesday
+1126,31-07-2024,20:50:07,23.02,Cortado,card,wednesday
+1127,31-07-2024,20:51:10,32.82,Latte,card,wednesday
+1128,31-07-2024,20:52:15,32.82,Cappuccino,card,wednesday
+1129,31-07-2024,20:53:35,23.02,Cortado,card,wednesday
+1130,31-07-2024,20:59:25,27.92,Americano with Milk,card,wednesday
+1131,31-07-2024,21:26:26,32.82,Latte,card,wednesday
+1132,31-07-2024,21:54:12,32.82,Latte,card,wednesday
+1133,31-07-2024,21:55:17,32.82,Latte,card,wednesday
